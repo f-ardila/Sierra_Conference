@@ -1,5 +1,5 @@
-
-# Osterbrock Sierra Conference
+Sierra Conference
+# [Osterbrock Sierra Conference](osterbrock)
 # [History](history)
-# FAQs
-# Projects
+# [FAQs](faqs)
+# [Projects](projects)
