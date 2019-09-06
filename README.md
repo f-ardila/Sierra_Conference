@@ -1,4 +1,4 @@
-Sierra Conference
+ 
 # [Osterbrock Sierra Conference](osterbrock)
 # [History](history)
 # [FAQs](faqs)
