@@ -1,3 +1,5 @@
 theme: jekyll-theme-cayman
 title: Sierra Conference
 description: A gathering of astronomy graduate students from the University of California.
+github:
+  is_project_page: false
