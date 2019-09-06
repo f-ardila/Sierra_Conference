@@ -3,3 +3,5 @@ Sierra Conference
 # [History](history)
 # [FAQs](faqs)
 # [Projects](projects)
+
+![astrslug](astroslug.png)
