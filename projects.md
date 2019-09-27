@@ -1,3 +1,3 @@
 # Ongoing Projects 
-- Newsletter
+- [Newsletter](newsletter/newsletter.md)
 - Slack workspace
