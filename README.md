@@ -3,5 +3,6 @@
 # [History](history)
 # [FAQs](faqs)
 # [Projects](projects)
+# [Photos]
 
 ![astrslug](astroslug.png)
