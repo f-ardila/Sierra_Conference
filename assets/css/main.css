@@ -213,11 +213,19 @@ input, select, textarea {
 	.row > section, .row > article {
 		margin-bottom: 0;
 	}
-
+	/*  */
+/* HEADER */
+   /*  */
 	header {
 		margin-bottom: 1.5em;
 	}
-
+		header > h1 {
+			/* display: block; */
+			/* color: #f35858; */
+			padding: 0.75em 0 0.5em 0;
+			font-size: 3.5em;
+			/* line-height: 1.5em; */
+		}
 		header > p {
 			display: block;
 			color: #f35858;
@@ -229,6 +237,29 @@ input, select, textarea {
 		header.major {
 			text-align: center;
 		}
+/* Questions expolaining conference */
+		article > h3 {
+			/* display: block; */
+			color: #f35858;
+			/* padding: 0.75em 0 0.5em 0; */
+			/* font-size: 3.5em; */
+			/* line-height: 1.5em; */
+		}
+	/* title */
+	.FAQ > h2 {
+		font-size: 2.5em;
+		margin-bottom: 0.75em;
+	}
+	/* questions */
+	.FAQ > ul > li {
+		font-size: 1.2em;
+		text-decoration: underline;
+		/* color: #f35858; */
+	}
+	/* answers */
+	.FAQ > p{
+		margin-bottom: 0.75em;
+	}
 
 /* Container */
 
